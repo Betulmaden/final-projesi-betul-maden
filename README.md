@@ -27,7 +27,8 @@ Projeyi kendi bilgisayarınızda çalıştırmak için terminale şu komutu yaza
 Terminalden projenin olduğu klasöre girip `streamlit run app.py` yazın. Tarayıcıda açılan sayfada, sol taraftaki menüden müşteri özelliklerini (fatura, cinsiyet, süre vb.) girip "Tahmin Et" butonuna tıklayabilirsiniz.
 
 **Örnek Ekran Görüntüleri:**
-*(Buraya arayüzün ekran görüntüsünü yükleyeceğim)*
+![Arayüz 1](arayuz1.png)
+![Arayüz 2](arayuz2.png)
 
 **Test Sonuçları:**
 Veriyi %80 eğitim, %20 test olarak ayırdım. Logistic Regression modeli %78 doğruluk (accuracy) verirken, Random Forest modeli %79 verdi. Bu yüzden Random Forest ile ilerledim. Arayüzü uç değerlerle (hiç faturası olmayan veya çok eski müşterilerle) denediğimde de sistem hata vermeden çalıştı.
