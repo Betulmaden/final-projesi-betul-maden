@@ -44,3 +44,4 @@ Projeyi geliştirirken kodlamada takıldığım yerleri aşmak ve hata ayıklama
 
 ---
 🎥 **Proje Tanıtım Videosu:** 
+https://drive.google.com/file/d/10eJNRmZdjarChH3zZmEA2ApgiLBTDxSO/view?usp=share_link
